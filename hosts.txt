@@ -1,3 +1,10 @@
 https://www.google.com
-https://www.example.com
+https://www.youtube.com
+https://www.facebook.com
+https://www.ygithub.com
+https://www.chatgpt.com
+https://www.netacad.com
+https://skillsforall.com
 192.168.1.1
+192.168.8.1
+192.168.8.2
